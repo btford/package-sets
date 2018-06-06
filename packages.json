@@ -992,7 +992,7 @@
       "prelude",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-react.git",
+    "repo": "https://github.com/btford/purescript-react.git",
     "version": "v6.0.0-btford"
   },
   "record": {
