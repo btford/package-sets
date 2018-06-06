@@ -185,6 +185,20 @@
     "repo": "https://github.com/purescript-contrib/purescript-coroutines.git",
     "version": "v5.0.0"
   },
+  "css": {
+    "dependencies": [
+      "colors",
+      "console",
+      "generics-rep",
+      "nonempty",
+      "profunctor",
+      "strings",
+      "these",
+      "transformers"
+    ],
+    "repo": "https://github.com/btford/purescript-css.git",
+    "version": "v5.0.0-btford"
+  },
   "datetime": {
     "dependencies": [
       "bifunctors",
