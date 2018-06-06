@@ -986,6 +986,15 @@
     "repo": "https://github.com/purescript/purescript-random.git",
     "version": "v4.0.0"
   },
+  "react": {
+    "dependencies": [
+      "eff",
+      "prelude",
+      "unsafe-coerce"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-react.git",
+    "version": "v6.0.0-btford"
+  },
   "record": {
     "dependencies": [
       "functions",
