@@ -1027,8 +1027,8 @@
       "control",
       "datetime",
       "distributive",
-      "dom",
-      "eff",
+      "web-dom",
+      "effect",
       "eff-functions",
       "either",
       "enums",
@@ -1062,8 +1062,8 @@
       "unfoldable",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/natefaubion/purescript-react-dom.git",
-    "version": "compiler/0.12"
+    "repo": "https://github.com/btford/purescript-react-dom.git",
+    "version": "v6.0.0-btford"
   },
   "record": {
     "dependencies": [
