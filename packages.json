@@ -58,6 +58,17 @@
     "repo": "https://github.com/hdgarrood/purescript-ansi",
     "version": "v5.0.0"
   },
+  "argonaut-codecs": {
+    "dependencies": [
+      "argonaut-core",
+      "foreign-object",
+      "integers",
+      "maybe",
+      "ordered-collections"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-argonaut-codecs.git",
+    "version": "v4.0.0"
+  },
   "argonaut-core": {
     "dependencies": [
       "arrays",
@@ -74,6 +85,21 @@
     ],
     "repo": "https://github.com/purescript-contrib/purescript-argonaut-core.git",
     "version": "v4.0.0"
+  },
+  "argonaut-generic": {
+    "dependencies": [
+      "prelude",
+      "argonaut-codecs",
+      "argonaut-core",
+      "assert",
+      "console",
+      "effect",
+      "generics-rep",
+      "proxy",
+      "record"
+    ],
+    "repo": "https://github.com/btford/purescript-argonaut-generic.git",
+    "version": "v2.0.0-btford"
   },
   "arraybuffer-types": {
     "dependencies": [],
