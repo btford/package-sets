@@ -906,6 +906,22 @@
     "repo": "https://github.com/purescript/purescript-parallel.git",
     "version": "v4.0.0"
   },
+  "parsing": {
+    "dependencies": [
+      "arrays",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "integers",
+      "lists",
+      "maybe",
+      "strings",
+      "transformers",
+      "unicode"
+    ],
+    "repo": "https://github.com/btford/purescript-parsing.git",
+    "version": "compiler/0.12"
+  },
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/purescript/purescript-partial.git",
