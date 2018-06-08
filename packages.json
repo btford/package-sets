@@ -419,8 +419,8 @@
       "prelude",
       "transformers"
     ],
-    "repo": "https://github.com/slamdata/purescript-formatters.git",
-    "version": "v3.0.2"
+    "repo": "https://github.com/btford/purescript-formatters.git",
+    "version": "v4.0.0-btford"
   },
   "free": {
     "dependencies": [
@@ -943,7 +943,7 @@
       "unicode"
     ],
     "repo": "https://github.com/btford/purescript-parsing.git",
-    "version": "compiler/0.12"
+    "version": "v5.0.0-btford"
   },
   "partial": {
     "dependencies": [],
