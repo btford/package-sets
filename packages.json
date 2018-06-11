@@ -383,8 +383,7 @@
       "foreign-object",
       "globals",
       "nullable",
-      "proxy",
-      "symbols"
+      "proxy"
     ],
     "repo": "https://github.com/justinwoo/purescript-foreign-generic.git",
     "version": "compiler/0.12"
