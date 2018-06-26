@@ -1080,7 +1080,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/purescript/purescript-quickcheck.git",
-    "version": "af9203c"
+    "version": "master"
   },
   "random": {
     "dependencies": [
