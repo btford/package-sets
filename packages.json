@@ -1150,7 +1150,7 @@
       "prelude"
     ],
     "repo": "https://github.com/bodil/purescript-signal.git",
-    "version": "v10.0.0"
+    "version": "v10.1.0"
   },
   "simple-json": {
     "dependencies": [
